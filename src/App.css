@@ -1,0 +1,20 @@
+
+
+.jumbotron-fluid{
+  position: relative;
+  padding:0 !important;
+  margin-top:70px !important;
+  margin-top: 23px;
+  text-align:center;
+  margin-bottom: 0 !important;
+  opacity: 1;
+  background:rgba(155, 229, 145, 0.493);  
+  
+  
+}
+.container-fluid{
+  padding:0 !important;
+}
+.col-xs-4{
+  background:rgba(157,52,99,0.7);    
+}
